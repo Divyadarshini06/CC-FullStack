@@ -1,0 +1,53 @@
+[
+  {
+    "id": "1",
+    "title": "Frontend Developer",
+    "company": "Tech Innovators Inc.",
+    "location": "San Francisco, CA (Remote)",
+    "type": "Full-time",
+    "salary": "$90,000 - $120,000",
+    "experience": "Entry Level",
+    "category": "Engineering",
+    "skills": ["React", "JavaScript", "CSS"],
+    "description": "We are looking for a passionate Frontend Developer to join our team and build amazing user experiences...",
+    "responsibilities": [
+      "Develop UI components using React",
+      "Collaborate with backend engineers",
+      "Optimize application for maximum speed"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Backend Engineer",
+    "company": "DataSystems Ltd.",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "salary": "$110,000 - $140,000",
+    "experience": "Mid Level",
+    "category": "Engineering",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "description": "Join our core team to design and build scalable backend services.",
+    "responsibilities": [
+      "Design scalable APIs",
+      "Maintain database integrity",
+      "Write comprehensive unit tests"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "UI/UX Designer",
+    "company": "Creative Minds",
+    "location": "Remote",
+    "type": "Contract",
+    "salary": "$60 - $80 / hr",
+    "experience": "Senior",
+    "category": "Design",
+    "skills": ["Figma", "Sketch", "Prototyping"],
+    "description": "Looking for an experienced UI/UX designer to revamp our product interfaces.",
+    "responsibilities": [
+      "Create high-fidelity wireframes",
+      "Conduct user research",
+      "Collaborate with developers for handoff"
+    ]
+  }
+]
